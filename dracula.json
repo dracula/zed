@@ -4,7 +4,7 @@
   "author": "Ben Hamment",
   "themes": [
     {
-      "name": "dracula",
+      "name": "Dracula",
       "appearance": "dark",
       "style": {
         "border": "#00000022",
@@ -136,42 +136,39 @@
         "warning.border": "#5d4c2fff",
         "players": [
           {
-            "cursor": "#74ade8ff",
-            "background": "#74ade8ff",
-            "selection": "#74ade83d"
+            "cursor": "#50fa7bff",
+            "background": "#50fa7bff",
+            "selection": "#50fa7b33"
           },
           {
-            "cursor": "#be5046ff",
-            "background": "#be5046ff",
-            "selection": "#be50463d"
+            "cursor": "#ff79c6ff",
+            "background": "#ff79c6ff",
+            "selection": "#ff79c633"
           },
           {
-            "cursor": "#ff79c6",
-            "background": "#ff79c6",
-            "selection": "#bf956a3d"
-          },
-          {
-            "cursor": "#b477cfff",
-            "background": "#b477cfff",
-            "selection": "#b477cf3d"
-          },
-          {
-            "cursor": "#8be9fdff",
-            "background": "#8be9fdff",
-            "selection": "#6eb4bf3d"
-          },
-          {
-            "selection": "#d072773d"
-          },
-          {
-            "cursor": "#dec184ff",
-            "background": "#dec184ff",
-            "selection": "#dec1843d"
+            "cursor": "#bd93f9ff",
+            "background": "#bd93f9ff",
+            "selection": "#bd93f933"
           },
           {
             "cursor": "#f1fa8cff",
             "background": "#f1fa8cff",
-            "selection": "#a1c1813d"
+            "selection": "#f1fa8c33"
+          },
+          {
+            "cursor": "#8be9fdff",
+            "background": "#8be9fdff",
+            "selection": "#6eb4bf33"
+          },
+          {
+            "cursor": "#ffb86cff",
+            "background": "#ffb86cff",
+            "selection": "#ffb86c33"
+          },
+          {
+            "cursor": "#ff5555ff",
+            "background": "#ff5555ff",
+            "selection": "#ff555533"
           }
         ],
         "syntax": {
@@ -359,7 +356,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#ff79c6",
+            "color": "#ff79c6ff",
             "font_style": null,
             "font_weight": null
           },
