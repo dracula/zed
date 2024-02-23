@@ -355,6 +355,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "variable.parameter": {
+            "color": "#ffb86cff",
+            "font_style": "italic",
+            "font_weight": null
+          },
           "variable.special": {
             "color": "#ff79c6ff",
             "font_style": null,
