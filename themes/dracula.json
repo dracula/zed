@@ -350,6 +350,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "type.super": {
+            "color": "#8be9fdff",
+            "font_style": "italic",
+            "font_weight": null
+          },
           "variable": {
             "color": "#f8f8f2ff",
             "font_style": null,
