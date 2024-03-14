@@ -59,7 +59,7 @@
         "editor.active_line.background": "#C9A8F933",
         "editor.highlighted_line.background": "#44475aff",
         "editor.line_number": "#f8f8f250",
-        "editor.active_line_number": "#d7befb",
+        "editor.active_line_number": "#C9A8F9FF",
         "editor.invisible": "#f8f8f230",
         "editor.wrap_guide": "#f8f8f215",
         "editor.active_wrap_guide": "#c8ccd41a",
@@ -342,6 +342,7 @@
             "font_weight": null
           },
           "title": {
+            "color": "#C9A8F9FF",
             "font_style": null,
             "font_weight": 400
           },
