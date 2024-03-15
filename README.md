@@ -24,7 +24,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## Dracula PRO
 
-[![Dracula PRO](./.github/dracula-pro.png)]([https://gumroad.com/a/658543635/tPfIDt])
+[![Dracula PRO](./.github/dracula-pro.png)](https://gumroad.com/a/658543635/tPfIDt)
 
 ## License
 
