@@ -11,7 +11,7 @@
         "border.variant": "#C9A8F933",
         "border.focused": "#C9A8F977",
         "border.selected": "#C9A8F9bb",
-        "border.transparent": "#22212cff",
+        "border.transparent": "#00000000",
         "border.disabled": null,
         "elevated_surface.background": "#1e1925ff",
         "surface.background": "#242631ee",
@@ -107,7 +107,7 @@
         "hidden": "#414754ff",
         "hidden.background": "#242631ee",
         "hidden.border": "#414754ff",
-        "hint": null,
+        "hint": "#6272a4ff",
         "hint.background": null,
         "hint.border": null,
         "ignored": null,
@@ -168,12 +168,12 @@
           {
             "cursor": "#ff5555ff",
             "background": "#ff5555ff",
-            "selection": "#C9A8F933"
+            "selection": "#ff555533"
           }
         ],
         "syntax": {
           "attribute": {
-            "color": "#74ade8ff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -238,7 +238,7 @@
             "font_weight": null
           },
           "label": {
-            "color": "#74ade8ff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -263,7 +263,7 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#5a6a87ff",
+            "color": null,
             "font_style": "italic",
             "font_weight": null
           },
@@ -273,7 +273,7 @@
             "font_weight": null
           },
           "primary": {
-            "color": "#acb2beff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -298,6 +298,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -332,7 +333,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#74ade8ff",
+            "color": "#ff79c6ff",
             "font_style": null,
             "font_weight": null
           },
