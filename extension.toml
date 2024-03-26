@@ -1,0 +1,7 @@
+id = "dracula"
+name = "Dracula"
+version = "0.5.2"
+schema_version = 1
+authors = ["Ben Hamment <fisix1@gmail.com>"]
+description = "Official Dracula theme for Zed"
+repository = "https://github.com/dracula/zed"
