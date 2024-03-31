@@ -83,7 +83,7 @@
         "hint": "#6272a4ff",
         "hint.background": null,
         "hint.border": null,
-        "ignored": "#6272a4ff",
+        "ignored": "#C9A8F950",
         "ignored.background": "#3c324bff",
         "ignored.border": null,
         "info": null,
@@ -160,7 +160,7 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#6272a4ff",
+            "color": "#ff79c6ff",
             "font_style": null,
             "font_weight": null
           },
@@ -180,12 +180,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#50fa7bff",
-            "font_style": null,
+            "color": "#f1fa8cff",
+            "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#ff79c6ff",
+            "color": "#ffb86cff",
             "font_style": null,
             "font_weight": 700
           },
@@ -215,7 +215,7 @@
             "font_weight": null
           },
           "link_text": {
-            "color": "#f8f8f2ff",
+            "color": "#ff79c6ff",
             "font_style": "normal",
             "font_weight": null
           },
@@ -240,7 +240,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#f8f8f2ff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -250,7 +250,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#ffb86cff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           },
@@ -270,7 +270,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": null,
+            "color": "#8be9fdff",
             "font_style": null,
             "font_weight": null
           },
@@ -310,7 +310,7 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#f1fa8cff",
+            "color": "#50fa7bff",
             "font_style": null,
             "font_weight": null
           },
@@ -340,12 +340,12 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#ff79c6ff",
-            "font_style": null,
+            "color": "#bd93f9ff",
+            "font_style": "italic",
             "font_weight": null
           },
           "variant": {
-            "color": "#f8f8f2ff",
+            "color": null,
             "font_style": null,
             "font_weight": null
           }
