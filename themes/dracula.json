@@ -75,8 +75,9 @@
         "deleted": "#ff5555ff",
         "deleted.background": "#301b1bff",
         "deleted.border": "#4c2b2cff",
+        "error": "#e67373ff",
         "error.background": "#242631ee",
-        "error.border": "#ff5555ff",
+        "error.border": "#e67373ff",
         "hidden": "#414754ff",
         "hidden.background": "#242631ee",
         "hidden.border": "#414754ff",
@@ -86,9 +87,9 @@
         "ignored": "#C9A8F950",
         "ignored.background": "#3c324bff",
         "ignored.border": null,
-        "info": null,
+        "info": "#73ece5ff",
         "info.background": "#242631ee",
-        "info.border": null,
+        "info.border": "#73ece5ff",
         "modified": "#a2edfdff",
         "modified.background": null,
         "modified.border": null,
@@ -98,14 +99,14 @@
         "renamed": null,
         "renamed.background": "#242631ee",
         "renamed.border": null,
-        "success": null,
+        "success": "#79e96dff",
         "success.background": "#242631ee",
-        "success.border": null,
+        "success.border": "#79e96dff",
         "unreachable": null,
         "unreachable.border": null,
-        "warning": null,
+        "warning": "#e6e373ff",
         "warning.background": "#242631ee",
-        "warning.border": null,
+        "warning.border": "#e6e373ff",
         "players": [
           {
             "cursor": "#bd93f9ff",
@@ -145,7 +146,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": null,
+            "color": "#ff79c6ff",
             "font_style": null,
             "font_weight": null
           },
@@ -210,7 +211,7 @@
             "font_weight": null
           },
           "label": {
-            "color": null,
+            "color": "#f8f8f2ff",
             "font_style": null,
             "font_weight": null
           },
@@ -240,7 +241,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": null,
+            "color": "#6272a4ff",
             "font_style": null,
             "font_weight": null
           },
@@ -334,6 +335,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "variable.member": {
+            "color": "#f8f8f2ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "variable.parameter": {
             "color": "#ffb86cff",
             "font_style": "italic",
@@ -345,7 +351,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": null,
+            "color": "#bd93f9ff",
             "font_style": null,
             "font_weight": null
           }
