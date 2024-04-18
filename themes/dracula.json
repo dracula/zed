@@ -316,9 +316,9 @@
             "font_weight": null
           },
           "title": {
-            "color": "#C9A8F9FF",
+            "color": "#bd93f9ff",
             "font_style": null,
-            "font_weight": 400
+            "font_weight": 600
           },
           "type": {
             "color": "#8be9fdff",
