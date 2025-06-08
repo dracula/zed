@@ -7,6 +7,7 @@
       "name": "Dracula",
       "appearance": "dark",
       "style": {
+        "background.appearance": "blurred",
         "border": "#3c324bcc",
         "border.variant": "#C9A8F933",
         "border.focused": "#C9A8F977",
