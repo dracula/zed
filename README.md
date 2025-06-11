@@ -2,7 +2,8 @@
 
 > A dark theme for [Zed](https://zed.dev).
 
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/768c3f9d-4f8c-4fb1-9b85-ea9f2cc9180a)
+
 
 ## Install
 
