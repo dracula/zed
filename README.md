@@ -2,7 +2,12 @@
 
 > A dark theme for [Zed](https://zed.dev).
 
-![image](https://github.com/user-attachments/assets/768c3f9d-4f8c-4fb1-9b85-ea9f2cc9180a)
+![image](https://github.com/user-attachments/assets/73538f30-d9a0-430f-8c0d-77e8810a2648)
+
+> Alucard, a light theme
+
+![image](https://github.com/user-attachments/assets/88911c4e-0a03-4a27-86fa-650884357ea7)
+
 
 
 ## Install
