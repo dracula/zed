@@ -469,7 +469,7 @@
         "panel.indent_guide_hover": "#423357ff",
         "pane.focused_border": "#C9A8F9FF",
         "pane_group.border": "#3c324bff",
-        "scrollbar.thumb.background": "#C9A8F9FF",
+        "scrollbar.thumb.background": "#C9A8F977",
         "scrollbar.thumb.hover_background": "#d4b9faff",
         "scrollbar.thumb.border": "#282a36ff",
         "scrollbar.track.background": "#141119ff",
@@ -818,7 +818,7 @@
       }
     },
     {
-      "name": "Dracula Light (Alucard)",
+      "name": "Dracula Light (Alucard",
       "appearance": "light",
       "style": {
         "accents": [
