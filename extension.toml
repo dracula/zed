@@ -1,6 +1,6 @@
 id = "dracula"
 name = "Dracula"
-version = "1.0.0"
+version = "1.1.0"
 schema_version = 1
 authors = ["Ben Hamment <fisix1@gmail.com>"]
 description = "Official Dracula theme for Zed"
