@@ -855,7 +855,7 @@
         "element.selected": "#CFCFDE",
         "element.disabled": "#fbfbfbff",
         "drop_target.background": "#ACB0BE42",
-        "ghost_element.background": null,
+        "ghost_element.background": "#F5F5F500",
         "ghost_element.hover": "#ccd0daff",
         "ghost_element.active": "#d6d9e1ff",
         "ghost_element.selected": "#dce0e8ff",
