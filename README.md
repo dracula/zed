@@ -2,11 +2,11 @@
 
 > A dark theme for [Zed](https://zed.dev).
 
-![image](https://github.com/user-attachments/assets/73538f30-d9a0-430f-8c0d-77e8810a2648)
+![Dracula theme for Zed - dark](./screenshot/01-dracula.png)
 
 > Alucard, a light theme
 
-![image](https://github.com/user-attachments/assets/88911c4e-0a03-4a27-86fa-650884357ea7)
+![Alucard theme for Zed - light](./screenshot/02-alucard.png)
 
 
 
