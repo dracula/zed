@@ -27,9 +27,9 @@
         "surface.background": "#242631ee",
         "background": "#b597e033",
         "element.background": "#1c1d26ff",
-        "element.hover": "#504364ff",
+        "element.hover": "#3c324bff",
         "element.active": "#796595ff",
-        "element.selected": "#65547dff",
+        "element.selected": "#282232ff",
         "element.disabled": "#e9dbfdff",
         "drop_target.background": "#504364ff",
         "ghost_element.background": "#00000000",
@@ -56,7 +56,7 @@
         "tab.active_background": "#282a36ff",
         "search.match_background": "#50fa7b50",
         "panel.background": "#16121bff",
-        "panel.focused_border": "#C9A8F9FF",
+        "panel.focused_border": "#C9A8F960",
         "panel.indent_guide": "#f8f8f220",
         "panel.indent_guide_active": "#C9A8F950",
         "panel.indent_guide_hover": "#C9A8F935",
@@ -102,7 +102,7 @@
         "hint": "#6272a4ff",
         "hint.background": "#242631ee",
         "hint.border": "#6272a4ff",
-        "ignored": "#C9A8F950",
+        "ignored": "#f8f8f250",
         "ignored.background": "#3c324bff",
         "ignored.border": "#C9A8F950",
         "info": "#73ece5ff",
@@ -164,7 +164,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#ff79c6ff",
+            "color": "#8be9fdff",
             "font_style": null,
             "font_weight": null
           },
@@ -219,9 +219,9 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#bd93f9ff",
-            "font_style": null,
-            "font_weight": 700
+            "color": "#6272a4ff",
+            "font_style": "italic",
+            "font_weight": null
           },
           "keyword": {
             "color": "#ff79c6ff",
@@ -580,7 +580,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#ff79c6ff",
+            "color": "#8be9fdff",
             "font_style": null,
             "font_weight": null
           },
@@ -635,9 +635,9 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#bd93f9ff",
-            "font_style": null,
-            "font_weight": 700
+            "color": "#6272a4ff",
+            "font_style": "italic",
+            "font_weight": null
           },
           "keyword": {
             "color": "#ff79c6ff",
@@ -827,7 +827,7 @@
       }
     },
     {
-      "name": "Dracula Light (Alucard)",
+      "name": "Dracula Light (Alucard",
       "appearance": "light",
       "style": {
         "accents": [
@@ -988,7 +988,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#A3144D",
+            "color": "#036A96",
             "font_style": null,
             "font_weight": null
           },
@@ -1043,9 +1043,9 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#644AC9",
-            "font_style": null,
-            "font_weight": 700
+            "color": "#635D97",
+            "font_style": "italic",
+            "font_weight": null
           },
           "keyword": {
             "color": "#A3144D",
